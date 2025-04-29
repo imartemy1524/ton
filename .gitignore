@@ -14,6 +14,7 @@ test/regression-tests.cache/
 .cache
 .idea
 .vscode
+.gitignore
 .DS_Store
 dev/
 zlib/
